@@ -1,0 +1,11 @@
+C:\Users\Aluno\Desktop\POO\AtividadeAgregação\AtividadeAgregação\bin\Debug\AtividadeAgregação.exe.config
+C:\Users\Aluno\Desktop\POO\AtividadeAgregação\AtividadeAgregação\bin\Debug\AtividadeAgregação.exe
+C:\Users\Aluno\Desktop\POO\AtividadeAgregação\AtividadeAgregação\bin\Debug\AtividadeAgregação.pdb
+C:\Users\Aluno\Desktop\POO\AtividadeAgregação\AtividadeAgregação\obj\Debug\AtividadeAgregação.csproj.AssemblyReference.cache
+C:\Users\Aluno\Desktop\POO\AtividadeAgregação\AtividadeAgregação\obj\Debug\AtividadeAgregação.csproj.SuggestedBindingRedirects.cache
+C:\Users\Aluno\Desktop\POO\AtividadeAgregação\AtividadeAgregação\obj\Debug\AtividadeAgregação.csproj.CoreCompileInputs.cache
+C:\Users\Aluno\Desktop\POO\AtividadeAgregação\AtividadeAgregação\obj\Debug\AtividadeAgregação.exe
+C:\Users\Aluno\Desktop\POO\AtividadeAgregação\AtividadeAgregação\obj\Debug\AtividadeAgregação.pdb
+C:\Users\Aluno\Desktop\POO\AtividadeAgregação\AtividadeAgregação\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Aluno\Desktop\POO\AtividadeAgregação\AtividadeAgregação\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Aluno\Desktop\POO\AtividadeAgregação\AtividadeAgregação\obj\Debug\AtividadeAgregação.csproj.CopyComplete
